@@ -1,7 +1,8 @@
 .about-us-container {
-    width: 90%;
-max-width: 1000px;
-    text-align: justify;
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: justify;
   }
   
   .about-us-heading {
